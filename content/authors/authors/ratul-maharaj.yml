@@ -1,0 +1,11 @@
+name: Ratul Maharaj
+bio: |
+  I'm an actuarial student currently living in Cape Town, South Africa. I love writing code and creating things
+avatar: ./avatars/ratul-maharaj.jpg
+social:
+  - url: https://twitter.com/ratulmaharaj
+  - url: https://instagram.com/ratulmaharaj
+  - url: https://linkedin.com/ratulmaharaj
+  - url: https://github.com/ratulmaharaj
+  - url: mailto:blog@ratulmaharaj.com
+featured: true

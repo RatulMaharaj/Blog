@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Ratul Maharaj`,
+    name: `Ratul Maharaj`,
+    siteUrl: `https://ratulmaharaj.com`,
+    description: `The personal blog of Ratul Maharaj.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to my blog, I write code and create things.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://twitter.com/RatulMaharaj`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/ratulmaharaj`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/ratulmaharaj`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `github`,
+        url: `https://github.com/RatulMaharaj`,
+      },
+      {
+        name: `mailto`,
+        url: `mailto:blog@ratulmaharaj.com`,
       },
     ],
   },
@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Ratul Maharaj`,
+        short_name: `Ratul Maharaj`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
