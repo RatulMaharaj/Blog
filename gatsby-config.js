@@ -19,7 +19,7 @@ module.exports = {
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/ratulmaharaj`,
+        url: `https://www.linkedin.com/in/ratulmaharaj`,
       },
       {
         name: `github`,
@@ -32,6 +32,12 @@ module.exports = {
     ],
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-160728827-1",
+      },
+    },
     {
       resolve: "@narative/gatsby-theme-novela",
       options: {
