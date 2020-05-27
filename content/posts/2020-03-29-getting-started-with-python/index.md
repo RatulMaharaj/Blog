@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Python
 author: Ratul Maharaj
-date: 2020-04-21
+date: 2020-03-29
 hero: ./images/hero.jpg
 excerpt: Everything you need to start writing code in python.
 ---
@@ -19,7 +19,9 @@ Computer programming gives you the confidence to be creative and enables you to 
 
 
 <blockquote>
-"Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn." - Stephen Hawking
+<p>
+"Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn" - Stephen Hawking
+</p>
 </blockquote>
 
 

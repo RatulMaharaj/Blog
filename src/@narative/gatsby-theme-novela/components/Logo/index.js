@@ -9,12 +9,9 @@ export default function Logo() {
       <p
         style={{
           color: `#fafafa`,
-          fontSize: `1.2em`,
-          fontFamily: `Raleway, Helvetica, sans-serif`,
-          letterSpacing: `0.1em`,
+          fontSize: `1.5em`,
           fontWeight: `bold`,
           whiteSpace: `nowrap`,
-          textTransform: `uppercase`,
         }}
       >
         Ratul Maharaj
@@ -25,12 +22,9 @@ export default function Logo() {
       <p
         style={{
           color: `#000`,
-          fontSize: `1.2em`,
-          fontFamily: `Raleway, Helvetica, sans-serif`,
-          letterSpacing: `0.1em`,
+          fontSize: `1.5em`,
           fontWeight: `bold`,
           whiteSpace: `nowrap`,
-          textTransform: `uppercase`,
         }}
       >
         Ratul Maharaj

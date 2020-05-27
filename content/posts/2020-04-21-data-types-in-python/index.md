@@ -1,7 +1,7 @@
 ---
 title: Data Types in Python
 author: Ratul Maharaj
-date: 2020-03-29
+date: 2020-04-21
 hero: ./images/hero.jpg
 excerpt: An exploration of various pythonic data types.
 ---
