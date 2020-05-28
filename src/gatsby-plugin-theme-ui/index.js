@@ -5,12 +5,16 @@ export default {
   initialColorMode: `dark`,
   colors: {
     ...novelaTheme.colors,
-    accent: "#5fa8aa",
+    accent: `#5465ff`,
     modes: {
       ...novelaTheme.colors.modes,
       dark: {
         ...novelaTheme.colors.modes.dark,
-        accent: "#c25353",
+        accent: `#5465ff`,
+        background:`#121212`,
+        gradient:
+        "linear-gradient(180deg, #121212 0%, #1f1f1f 100%)",
+        card: `#1f1f1f`,
 
       },
     },
@@ -34,7 +38,8 @@ export default {
   },
   fonts:{
     ...novelaTheme.fonts,
-    serif: "'Merriweather', Lato,'Helvetica Neue', Helvetica, Georgia, Serif",
+    serif: "Inter UI, Lato,'Helvetica Neue', Helvetica, Georgia, sans-serif",
+    sansSerif: "apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;"
     
   },
 };
