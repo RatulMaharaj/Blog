@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://ratulmaharaj.com`,
     description: `The personal blog of Ratul Maharaj.`,
     hero: {
-      heading: `Welcome to my blog, I write code and create things.`,
+      heading: `Welcome to my blog, I write code and explain things.`,
       maxWidth: 652,
     },
     social: [
@@ -36,6 +36,15 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-160728827-1",
+      },
+    },
+    {
+      resolve: "gatsby-plugin-web-font-loader",
+      options: {
+        custom: {
+          families: ["Radicalis", "Raleway", "Roboto"],
+          urls: ["/fonts/fonts.css"],
+        },
       },
     },
     {

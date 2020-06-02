@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Radicalis";
+    src: url("./Radicalis.ttf");
+  }
+
+@font-face {
+  font-family: "Raleway";
+  src: url('./Raleway-Regular.ttf');
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url('./Roboto-Light.ttf');
+}

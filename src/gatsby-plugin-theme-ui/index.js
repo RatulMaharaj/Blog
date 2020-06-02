@@ -1,16 +1,18 @@
 import novelaTheme from "@narative/gatsby-theme-novela/src/gatsby-plugin-theme-ui";
 
+console.log(novelaTheme)
+
 export default {
   ...novelaTheme,
   initialColorMode: `dark`,
   colors: {
     ...novelaTheme.colors,
-    accent: `#5465ff`,
+    accent: `#2DA195`,
     modes: {
       ...novelaTheme.colors.modes,
       dark: {
         ...novelaTheme.colors.modes.dark,
-        accent: `#5465ff`,
+        accent: `#2DA195`,
         background:`#121212`,
         gradient:
         "linear-gradient(180deg, #121212 0%, #1f1f1f 100%)",
@@ -38,8 +40,7 @@ export default {
   },
   fonts:{
     ...novelaTheme.fonts,
-    serif: "Inter UI, Lato,'Helvetica Neue', Helvetica, Georgia, sans-serif",
-    sansSerif: "apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;"
-    
+    serif: "Raleway, 'Helvetica Neue', Helvetica, Georgia, Arial, sans-serif",
+    sansSerif: "Roboto, Raleway, Arial, sans-serif;"
   },
 };

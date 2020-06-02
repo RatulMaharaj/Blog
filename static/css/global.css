@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+
+div, p{
+    font-family: "Roboto", "Raleway", sans-serif;
+    font-weight: 400;
+}
+
+code, pre > div{
+    font-family: "Operator Mono", monospace !important;
+}
+

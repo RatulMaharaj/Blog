@@ -9,8 +9,8 @@ export default function Logo() {
       <p
         style={{
           color: `#fafafa`,
+          fontFamily: `Radicalis`,
           fontSize: `1.5em`,
-          fontWeight: `bold`,
           whiteSpace: `nowrap`,
         }}
       >
@@ -22,8 +22,8 @@ export default function Logo() {
       <p
         style={{
           color: `#000`,
+          fontFamily: `Radicalis`,
           fontSize: `1.5em`,
-          fontWeight: `bold`,
           whiteSpace: `nowrap`,
         }}
       >
