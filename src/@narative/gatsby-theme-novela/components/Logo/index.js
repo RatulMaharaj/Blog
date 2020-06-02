@@ -9,7 +9,7 @@ export default function Logo() {
       <p
         style={{
           color: `#fafafa`,
-          fontFamily: `Radicalis`,
+          fontFamily: `Radicalis, Arial`,
           fontSize: `1.5em`,
           whiteSpace: `nowrap`,
         }}
@@ -22,7 +22,7 @@ export default function Logo() {
       <p
         style={{
           color: `#000`,
-          fontFamily: `Radicalis`,
+          fontFamily: `Radicalis, Arial`,
           fontSize: `1.5em`,
           whiteSpace: `nowrap`,
         }}

@@ -69,3 +69,6 @@ If you don't have *yarn* installed follow the [yarn getting started guide](https
 
 For more information visit the [Theme repository](https://github.com/narative/gatsby-theme-novela)
 
+### Deploy Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab50acc6-8ac8-4049-834b-e2fb4b043cd5/deploy-status)](https://app.netlify.com/sites/ratulmaharaj/deploys)
