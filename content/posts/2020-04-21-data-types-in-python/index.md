@@ -14,12 +14,11 @@ Well actually - they say if you have to explain a joke then it's probably not th
 If you haven't yet installed python and set up a development environment, I would suggest that you first read this post on [getting started with python.](https://ratulmaharaj.com/getting-started-with-python) 
 
 In this post, we will be looking broadly at the following data types:
-
-- [Numeric values](#numerical)
-- [Boolean values](#boolean)
-- [Sequential types](#sequential)
-- [Strings](#strings)
-- [Dictionaries](#dictionary)
+- Numeric values
+- Boolean values
+- Sequential types
+- Strings
+- Dictionaries
 
 <span id="numerical"></span>
 
