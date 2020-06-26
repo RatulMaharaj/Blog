@@ -10,5 +10,20 @@
 
 @font-face {
   font-family: "Roboto";
-  src: url('./Roboto-Light.ttf');
+  src: url('./Roboto-Regular.ttf');
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url('./OpenSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: url('./RobotoSlab-Regular.ttf');
+}
+
+@font-face {
+  font-family: "Saira";
+  src: url('./Saira-Light.ttf');
 }

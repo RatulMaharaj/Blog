@@ -2,20 +2,19 @@ import novelaTheme from "@narative/gatsby-theme-novela/src/gatsby-plugin-theme-u
 
 export default {
   ...novelaTheme,
-  initialColorMode: `dark`,
+  initialColorMode: `light`,
   colors: {
     ...novelaTheme.colors,
-    accent: `#2DA195`,
+    accent: `#3B8EA5`,
     modes: {
       ...novelaTheme.colors.modes,
       dark: {
         ...novelaTheme.colors.modes.dark,
-        accent: `#2DA195`,
+        accent: `#8F5CFF`,
         background:`#121212`,
         gradient:
         "linear-gradient(180deg, #121212 0%, #1f1f1f 100%)",
         card: `#1f1f1f`,
-
       },
     },
     prism: {
@@ -38,7 +37,7 @@ export default {
   },
   fonts:{
     ...novelaTheme.fonts,
-    serif: "Raleway, 'Helvetica Neue', Helvetica, Georgia, Arial, sans-serif",
+    serif: "Saira, OpenSans, Helvetica, Georgia, Arial, sans-serif",
     sansSerif: "Roboto, Raleway, Arial, sans-serif;"
   },
 };

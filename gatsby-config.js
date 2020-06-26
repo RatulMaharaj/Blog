@@ -43,7 +43,7 @@ module.exports = {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
         custom: {
-          families: ["Radicalis", "Raleway", "Roboto"],
+          families: ["Radicalis", "Raleway", "Roboto", "RobotoSlab", "OpenSans", "Saira"],
           urls: ["/fonts/fonts.css"],
         },
       },
@@ -71,11 +71,6 @@ module.exports = {
         theme_color: `#fff`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
       },
     },
     `gatsby-plugin-offline`,
