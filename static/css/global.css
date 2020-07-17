@@ -1,3 +1,7 @@
+::selection{
+    background-color: #eee;
+}
+
 h1{
     font-family: 'Saira', 'OpenSans', sans-serif;
     -webkit-font-smoothing: antialiased;
