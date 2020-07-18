@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://ratulmaharaj.com`,
     description: `The personal blog of Ratul Maharaj.`,
     hero: {
-      heading: `Welcome to my blog, I write code and explain things.`,
+      heading: `Welcome to my blog. I write code and explain a few things here.`,
       maxWidth: 652,
     },
     social: [
