@@ -12,9 +12,7 @@ It can be quite tempting to just install all your dependencies globally, but you
 
 By default, every python project on your system uses the same directories to store and retrieve third party libraries (site-packages) and given that Python isn't able to differentiate between various versions of packages in the `site-packages` directory, a real problem arises.
 
-A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them. 
-
-In short - it makes life just a little bit easier.
+A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python environments for them. 
 
 # Creating virtual environments
 
